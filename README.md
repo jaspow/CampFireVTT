@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="256" src="docs/FreeBeeGee-logo.svg">
-</p>
+This is a fork of FreeBeeGee.  More will be added over time
 
 # FreeBeeGee
 
